@@ -4,11 +4,14 @@ project:
 
 website:
   title: "SystemsBioVoit2025"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - text: "About"
+        href: about.qmd
+      - section: "Basics"
+        contents: basics
 
 format:
   html:

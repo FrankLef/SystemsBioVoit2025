@@ -11,6 +11,60 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "This is a study project of A First Course in Systems Biology, third edition by Eberhard O. Voit and Melissa L. Kemp.",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "chapters/chp01/ch01.html",
+    "href": "chapters/chp01/ch01.html",
+    "title": "Chapter 1 Biological Systems",
+    "section": "",
+    "text": "This is a Quarto website. This is chapter 1.\n\nReductionism and Systems Biology\nThis is a section\n\n\nEven Simple Systems can Confise -\nThis is another section - second - third",
+    "crumbs": [
+      "Basics",
+      "Chapters",
+      "Chp01",
+      "Chapter 1 Biological Systems"
+    ]
+  },
+  {
+    "objectID": "chp01/ch01.html",
+    "href": "chp01/ch01.html",
+    "title": "Chapter 1 Biological Systems",
+    "section": "",
+    "text": "This is a Quarto website. This is chapter 1.\n\nReductionism and Systems Biology\nThis is a section\n\n\nEven Simple Systems can Confise -\nThis is another section - second - third",
+    "crumbs": [
+      "Basics",
+      "Chp01",
+      "Biological Systems"
+    ]
+  },
+  {
+    "objectID": "basics/chapter 1/ch01.html",
+    "href": "basics/chapter 1/ch01.html",
+    "title": "Biological Systems",
+    "section": "",
+    "text": "This is a Quarto website. This is chapter 1.\n\nReductionism and Systems Biology\nThis is a section\n\n\nEven Simple Systems can Confise -\nThis is another section - second - third",
+    "crumbs": [
+      "Basics",
+      "Basics",
+      "chapter 1",
+      "Biological Systems"
+    ]
+  },
+  {
+    "objectID": "basics/chapter 2/ch02.html",
+    "href": "basics/chapter 2/ch02.html",
+    "title": "Introduction to Mathematical Modeling",
+    "section": "",
+    "text": "This is a Quarto website. This is chapter 2.\n\nGoals, Input and Initial Exploration\nThis is a section\n\n\nModel Selection and Design\nThis is another section - second - third",
+    "crumbs": [
+      "Basics",
+      "Basics",
+      "chapter 2",
+      "Introduction to Mathematical Modeling"
+    ]
   }
 ]

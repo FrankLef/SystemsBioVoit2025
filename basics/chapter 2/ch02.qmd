@@ -1,0 +1,17 @@
+---
+title: "Introduction to Mathematical Modeling"
+---
+
+This is a Quarto website.
+This is chapter 2.
+
+# Goals, Input and Initial Exploration
+
+This is a section
+
+
+# Model Selection and Design
+
+This is another section
+- second
+- third
