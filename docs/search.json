@@ -46,9 +46,9 @@
     "href": "basics/chapter 1/ch01.html",
     "title": "Biological Systems",
     "section": "",
-    "text": "This is a Quarto website. This is chapter 1.\n\nReductionism and Systems Biology\nThis is a section\n\n\nEven Simple Systems can Confise -\nThis is another section - second - third",
+    "text": "This is a Quarto website. This is chapter 1.\n\nReductionism and Systems Biology\nThis is a section\n\n\nEven Simple Systems can Confuse us\nThis is another section - second - third",
     "crumbs": [
-      "Basics",
+      "About",
       "Basics",
       "chapter 1",
       "Biological Systems"

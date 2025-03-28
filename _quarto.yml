@@ -10,7 +10,6 @@ website:
     contents:
       - text: "About"
         href: about.qmd
-      - section: "Basics"
         contents: basics
 
 format:

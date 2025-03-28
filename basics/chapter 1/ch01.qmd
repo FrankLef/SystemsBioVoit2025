@@ -10,7 +10,7 @@ This is chapter 1.
 This is a section
 
 
-# Even Simple Systems can Confuse us
+# Even Simple Systems can Confuse Us
 
 This is another section
 - second
